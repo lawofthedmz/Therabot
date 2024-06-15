@@ -42,6 +42,7 @@ Add a link to your live demo or a screenshot of the application here.
 - **Backend:** Flask, OpenAI API
 - **Frontend:** React, Tailwind CSS, Axios
 - **Environment Management:** dotenv
+- **Deployment:** Heroku
 
 ## Getting Started
 
@@ -136,7 +137,7 @@ Building Therabot was not without its challenges:
   - User Experience: Creating an intuitive and supportive user experience was paramount, and I faced challenges in designing interactions that felt natural and empathetic.
   - Scalability: Ensuring the application could handle multiple users simultaneously without compromising performance was a significant challenge that required optimizing the backend and managing server resources effectively.
 
-## Additional Features and Ehancements
+## Additional Features and Enhancements
 In addition to the core functionalities, I implemented several other features to enhance the user experience and the bot's capabilities:
 
   - Resource Links: Integrated a feature to provide users with links to valuable mental health resources and emergency contacts when critical keywords are detected.
@@ -153,3 +154,9 @@ Despite the challenges, building Therabot was an incredibly rewarding experience
 
 ## Project Link
 You can view the live project at [Therabot Live](https://therapy-chatbot-murphy-24161ebc687d.herokuapp.com/). If the project is down, please email me at [murphg04@gmail.com](mailto:murphgo4@gmail.com), and I will redeploy it for you to test.
+
+## Images
+**Landing Page**
+![Landing](https://github.com/lawofthedmz/Therabot/assets/99233521/9441a55f-3082-485f-a27a-c85d4a6f8a12)
+**Chatbox**
+![ChatBox](https://github.com/lawofthedmz/Therabot/assets/99233521/ae684443-1ead-4dbc-a71d-9b5e6de61c15)
